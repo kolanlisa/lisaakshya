@@ -1,0 +1,9 @@
+class ganesh{
+
+
+         public static voidmain(string[] args){
+         system.out.println("This is the first program here");
+}
+}
+
+
